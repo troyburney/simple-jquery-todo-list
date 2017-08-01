@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  todo:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: 2017-08-01T15:02:15.732011128+01:00
+    description: Awesome todo list!
+    digest: f7992a3cb4e355aef88d6b1f6bb2efc826b0532684e8c627059f12281dbb2a29
+    home: https://github.com/prydonius/todomvc
+    icon: https://prydonius.github.io/todomvc/todo-icon.png
+    maintainers:
+    - email: adnan@bitnami.com
+      name: prydonius
+    name: todo
+    sources:
+    - https://hub.docker.com/r/prydonius/todo/
+    urls:
+    - https://prydonius.github.io/todomvc/todo-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-08-01T15:02:15.731218939+01:00
