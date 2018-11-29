@@ -88,8 +88,7 @@ echo
 echo
 echo "##########################################################################"
 echo "###                                                                    ###"
-echo "###  Open the [ $containerName ]                                       ###"
-echo "###     application in the Firefox browser                             ###"
+echo "###  Open the application in the Firefox browser                       ###"
 echo "###                                                                    ###"
 echo "##########################################################################"
 firefox http://localhost:$hostTargetPort 2>&1
