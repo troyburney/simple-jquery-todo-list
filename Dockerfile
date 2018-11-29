@@ -15,5 +15,4 @@ COPY ./     $webServerFileRoot
 
 RUN ls -lha $webServerFileRoot
 
-# Expose ports for the web server
 EXPOSE 80
